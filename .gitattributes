@@ -1,0 +1,9 @@
+public/**/*.html linguist-vendored
+src/**/*.tsx linguist-detectable
+*.ico binary
+*.jpeg binary
+
+*.min.js linguist-generated
+*.yml linguist-detectable=false
+src/**/*.ts linguist-detectable 
+# eof 0a373ad2
